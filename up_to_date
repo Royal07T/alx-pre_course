@@ -1,0 +1,7 @@
+git add
+git status
+git commit -m "message"
+git push
+git switch
+git checkout -b update_new
+git push origin update_new
